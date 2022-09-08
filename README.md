@@ -4,6 +4,6 @@ Mr. Acorn is a third person Android game demo made in Unity. The purpose of this
 
 For the best experience, I highly recommend you to download the following .apk file and install Mr. Acorn demo on your Android: https://drive.google.com/file/d/1DgUglSeo5XpIbdpGOk4vpRqFG7U5_Vv2/view?usp=sharing
 
-Following video represents playthrough of Mr. Acorn demo game:
+Following video represents a playthrough of Mr. Acorn demo game:
 
 [![Watch the video](https://i9.ytimg.com/vi/1jkrwICEwkQ/mq1.jpg?sqp=CLzg5pgG&rs=AOn4CLC2PaDZcWjDK9Eq4eY-Cg7fqpxr7g&retry=5)](https://youtu.be/1jkrwICEwkQ)
