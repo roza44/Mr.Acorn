@@ -6,4 +6,4 @@ For the best experience, I highly recommend you to download the following .apk f
 
 Following video represents a playthrough of Mr. Acorn demo game:
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/1jkrwICEwkQ/mq1.webp?sqp=CIy46JgG&rs=AOn4CLBMcMgK6XCSVEPpOPApYZWV2tkp0g)](https://youtu.be/1jkrwICEwkQ)
+[![Watch the video](https://i9.ytimg.com/vi_webp/1jkrwICEwkQ/mq1.webp?sqp=COzQj5wG&rs=AOn4CLB2VywSVkS5GEV76vq4BHowMLLMPA)](https://www.youtube.com/watch?v=1jkrwICEwkQ)
